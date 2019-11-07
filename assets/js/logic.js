@@ -36,4 +36,3 @@ document.getElementById("submitBtn").addEventListener("click", function(event) {
     document.getElementById("lowChar").checked = false;
     document.getElementById("upChar").checked = false;
 });
-// howdy
